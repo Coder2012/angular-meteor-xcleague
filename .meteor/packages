@@ -24,3 +24,6 @@ fourseven:scss
 angular:angular-material
 accounts-password
 accounts-ui
+ongoworks:security
+kadira:debug
+houston:admin
